@@ -5,7 +5,7 @@
         "@types/node": "^16"
     },
     "dependencies": {
-        "@pulumi/digitalocean": "^4.21.0",
+        "@pulumi/digitalocean": "^4.38.0",
         "@pulumi/kubernetes": "^4.1.1",
         "@pulumi/pulumi": "^3.0.0",
         "package.json": "^2.0.1"
