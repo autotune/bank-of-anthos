@@ -23,7 +23,7 @@ flask==2.2.2
     #   locust
 flask-basicauth==0.2.0
     # via locust
-flask-cors==3.0.10
+flask-cors==6.0.0
     # via locust
 gevent==22.10.2
     # via
@@ -51,7 +51,7 @@ psutil==5.9.3
     # via locust
 pyzmq==24.0.1
     # via locust
-requests==2.28.1
+requests==2.32.4
     # via locust
 roundrobin==0.0.4
     # via locust
