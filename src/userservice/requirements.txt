@@ -146,7 +146,7 @@ pluggy==1.0.0
     #   pytest
 proto-plus==1.22.1
     # via google-cloud-trace
-protobuf==4.21.9
+protobuf==4.25.8
     # via
     #   -r requirements.in
     #   google-api-core
@@ -209,7 +209,7 @@ tomli==2.0.1
     #   pytest
 typing-extensions==4.4.0
     # via opentelemetry-sdk
-urllib3==1.26.12
+urllib3==2.5.0
     # via
     #   -r requirements.in
     #   requests
