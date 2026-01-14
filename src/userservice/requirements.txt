@@ -209,7 +209,7 @@ tomli==2.0.1
     #   pytest
 typing-extensions==4.4.0
     # via opentelemetry-sdk
-urllib3==1.26.12
+urllib3==2.6.3
     # via
     #   -r requirements.in
     #   requests
@@ -219,7 +219,7 @@ webencodings==0.5.1
     # via
     #   -r requirements.in
     #   bleach
-werkzeug==2.2.2
+werkzeug==3.1.5
     # via
     #   -r requirements.in
     #   flask
